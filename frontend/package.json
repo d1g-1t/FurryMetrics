@@ -19,6 +19,9 @@
       "react-app"
     ]
   },
+  "overrides": {
+    "shell-quote": "1.9.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
